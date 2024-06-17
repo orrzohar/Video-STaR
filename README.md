@@ -87,9 +87,10 @@ If you find our paper and code useful in your research, please consider giving a
 ```BibTeX
 @inproceedings{zohar2024videostar,
     title = {Video-STaR: Bootstrapping Weak Video Supervision for Visual Instruction Tuning},
-    author = {Zohar, Orr and Wang, Xiaohan and Bitton, Yonatan and Szpektor, Idan and Yeung, Serena-levy},
+    author = {Zohar, Orr and Wang, Xiaohan and Bitton, Yonatan and Szpektor, Idan and Yeung-levy, Serena},
     year = {2024},
     booktitle = {arXiv preprint arXiv:TBD},
+}
 ```
 
 
