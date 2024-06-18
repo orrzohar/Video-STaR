@@ -95,3 +95,5 @@ If you find our paper and code useful in your research, please consider giving a
 
 
 ## ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=orrzohar/Video-STaR&type=Date)](https://star-history.com/#orrzohar/Video-STaR&Date)
