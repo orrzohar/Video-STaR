@@ -10,7 +10,7 @@
 
 <h5 align="center">
     
-[![hf_space(Soon)](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/orrzohar/Video-STaR)
+[![hf_space](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/orrzohar/Video-STaR)
 [![arXiv (Soon)](https://img.shields.io/badge/Arxiv-TBD-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/TBD)
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellow)](https://github.com/orrzohar/Video-STaR/blob/main/LICENSE) 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Forrzohar%2FVideo-STaR&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -19,11 +19,12 @@
 </h5>
 
 ## 📣 Announcements
-* Working on expanding Video-STaR to 6 datasets and a total of 2M video-instruction pairs. Stay tuned!
+* **[2024.7.1]**  🚀 planned release of codebase!
+* **[2024.6.25]**  💫 planned release of VSTaR-1M!
+
 
 ## 📰 News
-* **[2024.7.1]**  🤗 [Hugging Face demo](https://huggingface.co/spaces/orrzohar/Video-STaR) and **all codes & datasets** are available now! Welcome to **watch** 👀 this repository for the latest updates.
-* **[2024.6.28]**  🚀 Initial release of codebase and the VSTaR dataset!
+* **[2024.6.20]**  🤗 [Hugging Face demo](https://huggingface.co/spaces/orrzohar/Video-STaR) released - you are welcome to explore the VSTaR-1M dataset
 * **[2024.6.17]**  🔥 README release
 
 
