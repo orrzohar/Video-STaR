@@ -1,9 +1,8 @@
 
-
 <p align="center">
     <img src="assets/video-star-icon.png" width="150" style="margin-bottom: 0.2;"/>
 <p>
-<h2 align="center"> <a href="https://arxiv.org/TBD">Video-STaR: Bootstrapping Weak Video Supervision for Visual Instruction Tuning</a></h2>
+<h2 align="center"> <a href="https://arxiv.org/TBD">Video-STaR: Unleashing Video Instruction Tuning Through Self-Training</a></h2>
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for latest update.  </h2>
 
 
@@ -19,8 +18,8 @@
 </h5>
 
 ## 📣 Announcements
-* **[2024.7.1]**  🚀 planned release of codebase!
-* **[2024.6.25]**  💫 planned release of VSTaR-1M!
+* **[2024.7.14]**  🚀 planned release of codebase!
+* **[2024.7.5]**  💫 planned release of VSTaR-1M!
 
 
 ## 📰 News
@@ -77,7 +76,7 @@ pip install decord opencv-python git+https://github.com/facebookresearch/pytorch
 
 ## 🙌 Related Projects
 * More coming soon... 
-* Video-Agent
+* [Video-Agent](https://wxh1996.github.io/VideoAgent-Website/)
 
 ## 🔒 License
 * The majority of this project is released under the Apache 2.0 license as found in the [LICENSE](https://github.com/orrzohar/Video-star/blob/main/LICENSE) file.
@@ -87,7 +86,7 @@ pip install decord opencv-python git+https://github.com/facebookresearch/pytorch
 If you find our paper and code useful in your research, please consider giving a star :star: and citation :pencil:.
 ```BibTeX
 @inproceedings{zohar2024videostar,
-    title = {Video-STaR: Bootstrapping Weak Video Supervision for Visual Instruction Tuning},
+    title = {Video-STaR: Unleashing Video Instruction Tuning Through Self-Training},
     author = {Zohar, Orr and Wang, Xiaohan and Bitton, Yonatan and Szpektor, Idan and Yeung-levy, Serena},
     year = {2024},
     booktitle = {arXiv preprint arXiv:TBD},
