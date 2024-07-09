@@ -22,7 +22,8 @@
 
 
 ## 📰 News
-* **[2024.7.9]**  💫  [VSTaR-1M relased](https://huggingface.co/datasets/orrzohar/Video-STaR)! 
+* **[2024.7.9]**  💫  [VSTaR-1M released](https://huggingface.co/datasets/orrzohar/Video-STaR)!
+* **[2024.7.9]**  📄  [arXiv released](https://arxiv.org/abs/2407.06189)
 * **[2024.6.20]**  🤗 [Hugging Face demo](https://huggingface.co/spaces/orrzohar/Video-STaR) released - you are welcome to explore the VSTaR-1M dataset
 * **[2024.6.17]**  🔥 README release
 
