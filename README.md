@@ -2,7 +2,7 @@
 <p align="center">
     <img src="assets/video-star-icon.png" width="150" style="margin-bottom: 0.2;"/>
 <p>
-<h2 align="center"> <a href="https://arxiv.org/TBD">Video-STaR: Unleashing Video Instruction Tuning Through Self-Training</a></h2>
+<h2 align="center"> <a href="https://arxiv.org/TBD">Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision</a></h2>
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for latest update.  </h2>
 
 
@@ -10,7 +10,7 @@
 <h5 align="center">
     
 [![hf_space](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/orrzohar/Video-STaR)
-[![arXiv (Soon)](https://img.shields.io/badge/Arxiv-TBD-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/TBD)
+[![arXiv](https://img.shields.io/badge/Arxiv-2407.06189-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2407.06189)
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellow)](https://github.com/orrzohar/Video-STaR/blob/main/LICENSE) 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Forrzohar%2FVideo-STaR&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
 [![GitHub issues](https://img.shields.io/github/issues/orrzohar/Video-STaR?color=critical&label=Issues)](https://github.com/orrzohar/Video-STaR/issues?q=is%3Aopen+is%3Aissue)
@@ -86,10 +86,10 @@ pip install decord opencv-python git+https://github.com/facebookresearch/pytorch
 If you find our paper and code useful in your research, please consider giving a star :star: and citation :pencil:.
 ```BibTeX
 @inproceedings{zohar2024videostar,
-    title = {Video-STaR: Unleashing Video Instruction Tuning Through Self-Training},
+    title = {Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision},
     author = {Zohar, Orr and Wang, Xiaohan and Bitton, Yonatan and Szpektor, Idan and Yeung-levy, Serena},
     year = {2024},
-    booktitle = {arXiv preprint arXiv:TBD},
+    booktitle = {arXiv preprint arXiv:2407.06189},
 }
 ```
 
