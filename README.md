@@ -18,11 +18,11 @@
 </h5>
 
 ## 📣 Announcements
-* **[2024.7.14]**  🚀 planned release of codebase!
-* **[2024.7.5]**  💫 planned release of VSTaR-1M!
+* **[2024.7.10]**  🚀 planned release of codebase!
 
 
 ## 📰 News
+* **[2024.7.9]**  💫  [VSTaR-1M relased](https://huggingface.co/datasets/orrzohar/Video-STaR)! 
 * **[2024.6.20]**  🤗 [Hugging Face demo](https://huggingface.co/spaces/orrzohar/Video-STaR) released - you are welcome to explore the VSTaR-1M dataset
 * **[2024.6.17]**  🔥 README release
 
