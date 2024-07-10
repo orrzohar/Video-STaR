@@ -2,7 +2,7 @@
 <p align="center">
     <img src="assets/video-star-icon.png" width="150" style="margin-bottom: 0.2;"/>
 <p>
-<h2 align="center"> <a href="https://arxiv.org/TBD">Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision</a></h2>
+<h2 align="center"> <a href="https://arxiv.org/2407.06189">Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision</a></h2>
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for latest update.  </h2>
 
 
